@@ -1,7 +1,16 @@
+#content_text{
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+#footernav{
+
+	margin-left: 250px;
+
+	}
+
 #footernav ul{
 width: 300px;
-margin-right: auto;
-margin-left: auto;
 
 }
 
