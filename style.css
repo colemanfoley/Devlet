@@ -1,7 +1,21 @@
+#footernav ul{
+width: 300px;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+#footernav li{
+		display: inline;
+		padding: 8px;
+	}
+
+
 body {
 	width: 700px;
 	margin: 0 auto;
 	margin-top:30px;
+	color: white;
 }
 
 /*----HEADER----*/
@@ -10,6 +24,10 @@ body {
 	width:750px;
 	height: 150px;
 	background-color: #333333;
+	margin-bottom: 10px;
+	font-size: 40px;
+	line-height: 150px;
+	text-align: center;
 
 }
 
@@ -41,6 +59,8 @@ float: left;
 	height: auto !important;
 	height: 500px;
 	background-color: #333333;
+	text-align: justify;
+
 }
 
 
