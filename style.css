@@ -1,0 +1,32 @@
+body {
+	width: 700px;
+	margin: 0 auto
+	margin-top:30px;
+}
+
+/*----HEADER----*/
+
+#header {
+	width:750px;
+	height: 150px;
+	background-color: #333333;
+
+}
+
+/*FAUX LAYOUT WRAPPER*/
+
+#wrapper{
+width: 750px;
+background: url(background_3.gif) repeat-y;
+margin-top: 10px;
+}
+
+/*------NAVIGATION---------*/
+
+#navigation {
+width: 200px;
+min-height: 500px;
+height: auto !important; 
+height: 500px;
+background-color: #333333;
+}
