@@ -1,0 +1,24 @@
+User
+	name
+	email
+	password
+	tracks
+
+Category
+	name
+
+Module
+	category_id
+	user_id
+	title
+	body
+	published_date
+
+Comment
+	name
+	email
+	website
+	comment
+
+Track
+	module_list
